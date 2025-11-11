@@ -125,7 +125,7 @@ For major changes, please open an issue first to discuss what you’d like to im
 ---
 
 ## 🧑‍💻 Author
-**Your Name**  
+**Chaitali Mali**  
 📧 chaitalimali902@gmail.com.com  
 💼 [LinkedIn(https://www.linkedin.com/in/chaitalimali/) | 🌐 [GitHub](https://github.com/Chaitali-mali)
 
